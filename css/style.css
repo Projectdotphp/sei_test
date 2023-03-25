@@ -96,11 +96,11 @@ body{
     padding: 5%;
 }
 .icon{
-    color:#1409dfbe;
-    margin-bottom: 1rem;
+    color:black;    
+  
 }
 .icon:hover{
-    color: #1208E0;;
+    color:gray;
 }
 
 /*** Navbar ***/
