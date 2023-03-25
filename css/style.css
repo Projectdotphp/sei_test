@@ -96,7 +96,8 @@ body{
     padding: 5%;
 }
 .icon{
-    color:black;    
+    color:black;
+    margin-bottom: 1rem;
   
 }
 .icon:hover{
